@@ -1,4 +1,4 @@
-<h1>Project Based Internship in Kalbe Nutritionals x Rakamin Academy</h1>
+<h1>Project Based Internship - Kalbe Nutritionals x Rakamin Academy</h1>
 
 <p>This repository showcases my internship project conducted in collaboration between Kalbe Nutritionals and Rakamin Academy. The project involved various stages of data analysis and visualization.</p>
 
