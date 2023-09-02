@@ -20,5 +20,13 @@ Clustering was performed using both K-Means and Fuzzy C-Means methods. Based on 
 <h3>Contact:</h3>
 <p>If you have any questions or suggestions regarding this project, please feel free to raise an issue or contact me directly.</p>
 
+<h2>Acknowledgments</h2>
+<ul>
+    <li><a href="https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b">An End-to-End Project on Time Series Analysis and Forecasting with Python</a> - Towards Data Science</li>
+    <li><a href="https://ejurnal.its.ac.id/index.php/sains_seni/article/download/58349/6451">Penerapan Metode K-Means dan Fuzzy C-Means untuk Pengelompokan Sekolah Menengah Pertama (SMP) di Indonesia Berdasarkan Standar Nasional Pendidikan (SNP)</a> - eJurnal ITS </li>
+    <li><a href="https://medium.com/data-science-business/time-series-arima-sarima-10f5b6a528d5">Time Series ARIMA & SARIMA</a> - Medium</li>
+</ul>
+
+<p>If you have any questions or suggestions regarding this project, please feel free to raise an issue or contact me directly.</p>
 </body>
 </html>
