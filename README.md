@@ -17,9 +17,6 @@ In the ARIMA modeling, seasonal effects tried include 7, 12, and 52. The best AR
 Clustering was performed using both K-Means and Fuzzy C-Means methods. Based on criteria such as silhouette, CH index, and David Bouldin index, the optimal number of clusters for each was found to be 3. The best method was determined using the ICD rate, and Fuzzy C-Means was identified as the superior method.
 </p>
 
-<h3>Contact:</h3>
-<p>If you have any questions or suggestions regarding this project, please feel free to raise an issue or contact me directly.</p>
-
 <h2>Acknowledgments</h2>
 <ul>
     <li><a href="https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b">An End-to-End Project on Time Series Analysis and Forecasting with Python</a> - Towards Data Science</li>
@@ -27,6 +24,9 @@ Clustering was performed using both K-Means and Fuzzy C-Means methods. Based on 
     <li><a href="https://medium.com/data-science-business/time-series-arima-sarima-10f5b6a528d5">Time Series ARIMA & SARIMA</a> - Medium</li>
 </ul>
 
+<h3>Contact:</h3>
+
 <p>If you have any questions or suggestions regarding this project, please feel free to raise an issue or contact me directly.</p>
+
 </body>
 </html>
